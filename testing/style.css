@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: 200;
+    text-align: center;
+}
+
+nav {
+    margin: 0 auto;
+    width: 90%;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 0 auto;
+    padding: 1em;
+}
+
+code {
+    font-family: monospace;
+    hyphens: none;
+    font-size: 0.9em;
+}
+
+.main-article {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+.term {
+    color: #5E9B07;
+    font-weight: bold;
+}
